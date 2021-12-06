@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/proyecto.github.io/static/css/main.19de9f2d.chunk.css",
-    "main.js": "/proyecto.github.io/static/js/main.a8b2ccd7.chunk.js",
-    "main.js.map": "/proyecto.github.io/static/js/main.a8b2ccd7.chunk.js.map",
+    "main.js": "/proyecto.github.io/static/js/main.b1f60610.chunk.js",
+    "main.js.map": "/proyecto.github.io/static/js/main.b1f60610.chunk.js.map",
     "runtime-main.js": "/proyecto.github.io/static/js/runtime-main.086f9d12.js",
     "runtime-main.js.map": "/proyecto.github.io/static/js/runtime-main.086f9d12.js.map",
     "static/css/2.1881a404.chunk.css": "/proyecto.github.io/static/css/2.1881a404.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.1881a404.chunk.css.map": "/proyecto.github.io/static/css/2.1881a404.chunk.css.map",
     "static/css/main.19de9f2d.chunk.css.map": "/proyecto.github.io/static/css/main.19de9f2d.chunk.css.map",
     "static/js/2.14729d1a.chunk.js.LICENSE.txt": "/proyecto.github.io/static/js/2.14729d1a.chunk.js.LICENSE.txt",
-    "static/js/main.a8b2ccd7.chunk.js.LICENSE.txt": "/proyecto.github.io/static/js/main.a8b2ccd7.chunk.js.LICENSE.txt",
+    "static/js/main.b1f60610.chunk.js.LICENSE.txt": "/proyecto.github.io/static/js/main.b1f60610.chunk.js.LICENSE.txt",
     "static/media/Low3.5c649c24.png": "/proyecto.github.io/static/media/Low3.5c649c24.png",
     "static/media/pleca-inferior-2021.89d54573.png": "/proyecto.github.io/static/media/pleca-inferior-2021.89d54573.png",
     "static/media/pleca-superior-2021.eeff6f1a.png": "/proyecto.github.io/static/media/pleca-superior-2021.eeff6f1a.png",
@@ -26,6 +26,6 @@
     "static/css/2.1881a404.chunk.css",
     "static/js/2.14729d1a.chunk.js",
     "static/css/main.19de9f2d.chunk.css",
-    "static/js/main.a8b2ccd7.chunk.js"
+    "static/js/main.b1f60610.chunk.js"
   ]
 }
